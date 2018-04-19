@@ -4,9 +4,9 @@
 
 ### 入力例
 ```
-y 3h30min z 2h20min
-y 3h30min z 2h20min
-y 3h30min z 2h20min
+予 3h30min 実 2h20min
+予 3h30min 実 2h20min
+予 3h30min 実 2h20min
 ```
 
 ### 出力例

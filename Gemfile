@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gem 'slack-api'
+gem 'slack-incoming-webhooks'
 
 gem 'dotenv'
 
